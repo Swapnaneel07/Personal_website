@@ -15,4 +15,4 @@ This is my personal portfolio website showcasing my skills, education, projects,
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/Personal_website.git](https://swapnaneel07.github.io/Personal_website/)
+   git clone https://swapnaneel07.github.io/Personal_website/
